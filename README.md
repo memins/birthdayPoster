@@ -1,9 +1,10 @@
 # birthdayPoster
 Basics - HTML,CSS (Bootstrap)
 
-**in processing...
-Fronted - 80%
-Backend - 0% **
+**in processing...**
+
+**Fronted - 80%**
+**Backend - 0%**
 
 
 #now
